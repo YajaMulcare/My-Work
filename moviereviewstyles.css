@@ -1,0 +1,83 @@
+html 
+h1 {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 4em; 
+}
+
+h2 {
+    color: white;
+    font-size: 2em; 
+    font-family: Quicksand, sans-serif;
+}
+h3 {
+    color: white;
+    font-family: Quicksand, sans-serif; 
+    font-size: 1.5em;
+    text-align: center;
+}
+
+body {
+    background-color: #67B993;
+    text-align: left;
+    margin-bottom: 0.5em auto;
+    margin-top: 0.5em;
+    margin-left: 7em;
+    margin-right: 7em;
+    background-image: url("C:/Users/YayaChan/Pictures/transparent_bg.png");
+    background-size: 2500px;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+img {
+    margin-left: 0em;
+    margin-top: 0 auto;
+    margin-bottom: 3em;
+border-image-width: auto;
+    
+}
+p {
+    color: white;
+    font-family: sans-serif, Helvetica;
+    text-align: justify;
+    margin: 0 4em 0; 
+    font-size: 1.5em;
+}
+aside {
+    background-color: #B79500;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    position: static;
+    align-items: center;
+}
+
+.sidenote {
+    text-align: center;
+    margin: 0 auto;
+    text-align-last: center;
+    padding-bottom: 30px;
+}
+footer {
+    color: black;
+    background-color: pink;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: Quicksand, sans-serif;
+}
+a {
+    color: black;
+}
+
+nav {
+    margin: 0 55em 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5em;
+   
+}
+
+.sidebar {
+    background-color: pink;
+    padding-right: 100px;
+    text-align: left;
+    position:fixed;
+}
